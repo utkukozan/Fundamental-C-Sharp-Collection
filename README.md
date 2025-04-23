@@ -31,7 +31,7 @@ Some of the key topics covered in this repository include:
 
 ## How to Use
 
-Each C# file is named according to the concept it covers. For example, `2_get_input_and_conversions.cs` demonstrates how to take user input and perform type conversions in C#.
+Each C# file is named according to the concept it covers. For example, `get_input_and_conversions.cs` demonstrates how to take user input and perform type conversions in C#.
 
 The files contain detailed explanations through comments to help you understand what the code does and the reasoning behind it.
 
